@@ -1,4 +1,3 @@
-https://colab.research.google.com/github/kalpvrux/Youtube-uploader/blob/main/Youtube_Uploader.ipynb
 Google Colab YouTube Video Uploader
 This project is an example of how to upload videos to YouTube using Google Colab. The project uses the Google API client library to upload the video and its metadata.
 
